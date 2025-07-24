@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guest List
 
 ![One guest is highlighted in a list of guests.](example.png)
@@ -36,3 +37,6 @@ from the API.
 ## Submission
 
 Please submit the link to your public GitHub repository.
+=======
+# WS25_GuestList
+>>>>>>> upstream/main
